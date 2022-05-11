@@ -1,0 +1,29 @@
+1.) Explain why selenium is important in web 
+scraping.
+• Selenium is an automation testing 
+framework for web applications/websites 
+which can also control the browser to 
+navigate the website just like a human. 
+Selenium uses a web-driver package that 
+can take control of the browser and mimic 
+user-oriented actions to trigger desired 
+events
+2.) What's the difference between scraping images 
+and scraping websites?Use an example to 
+demonstrate your point.
+• Image scraping is a subset of the web 
+scraping technology. While web scraping 
+deals with all forms of web data extraction, 
+image scraping only focuses on the media 
+side – images, videos, audio, and so on.
+• Web scraping is the process of using bots to 
+extract content and data from a website. 
+Unlike screen scraping, which only copies 
+pixels displayed onscreen, web scraping 
+extracts underlying HTML code and, with it, 
+data stored in a database. The scraper can5.) Explain the MongoDB aggregation framework.
+• The aggregation framework is a set of 
+analytics tools within MongoDB that allows 
+us to run various types of reports or analysis 
+on documents in one or more collections. 
+Based on the idea of a pipeline.
